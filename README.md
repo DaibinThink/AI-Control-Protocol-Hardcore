@@ -2,6 +2,10 @@
 ### Hardcore Edition: The Absolutist
 
 🛡️ **Too intrusive for daily work?** Use the **[Standard Edition (v4.4.1) →](https://github.com/DaibinThink/AI-Control-Protocol-Standard)**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60915f20-cd32-4ec6-8d5b-55a93e873016" width="48%" />
+  <img src="https://github.com/user-attachments/assets/27d01d71-8829-4fae-a23b-1b3ae7356dfa" width="48%" />
+</p>
 
 > **"You can't tell when your AI is lying to you."**
 > Not because you're not smart enough — because it's structurally trained to sound certain even when it's wrong.
